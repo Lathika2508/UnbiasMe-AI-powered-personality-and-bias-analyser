@@ -4,28 +4,6 @@
 
 ---
 
-## 👥 About the Team Behind UnbiasMe
-**UnbiasMe** is the result of a collaborative effort between a developer and a researcher passionate about psychology, bias awareness, and technology.
-
-### 🧠 Lathika — Research Strategist & Logic Designer
-
-Lathika is the conceptual backbone of **UnbiasMe**. She meticulously researched cognitive psychology and human biases to design the quiz flow, structure the question logic, and build the analytical mapping model. Her work ensures the platform delivers meaningful insights and promotes self-awareness through scientifically grounded, purpose-driven content.
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lathika-m-a78781303/)
-- 📷 [Instagram](https://www.instagram.com/_.lathx_/)
-- 💻 [GitHub](https://github.com/Lathika2508)
-
----
-
-### 💻 Sooriya — Full-Stack Developer & Platform Engineer
-
-Sooriya built **UnbiasMe** from the ground up — integrating powerful backend APIs, secure authentication, and smooth UI interactions. From MongoDB schema design to frontend responsiveness and deployment, his full-stack capabilities made the vision technically possible.
-
-- 🌐 [Portfolio](https://sooriya04.github.io/sooriya/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sooriyab/)
-- 📷 [Instagram](https://www.instagram.com/ucdshso/)
-- 💻 [GitHub](https://github.com/Sooriya04)
-
----
 
 ## 🔍 Features
 
@@ -111,10 +89,3 @@ npm start
 - 🎯 **Career recommendations** based on personality
 - 🗂 **Admin panel** to manage questions and users
 
-## 📬 Contact
-
-For queries, suggestions, or collaboration:
-
-- 🌐 **Website**: [sooriya04.github.io/sooriya](https://sooriya04.github.io/sooriya/)
-- 📧 **Email**: [sooriya.work@gmail.com](mailto:sooriya.work@gmail.com)
-- 💻 **GitHub**: [github.com/Sooriya04](https://github.com/Sooriya04)
